@@ -1,0 +1,10 @@
+.infoSlider{
+	background: none repeat scroll 0 0 #054E92;
+	color: #054E92;
+	font-size: 12px;
+	position: absolute;
+	z-index: 1000;
+	margin-left:1px;
+	opacity:0.10; 
+	filter:alpha(opacity:50);
+}
